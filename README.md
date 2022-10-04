@@ -1,2 +1,2 @@
 # Software-System
-体系结构
+软件体系结构
